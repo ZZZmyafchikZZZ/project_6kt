@@ -1,0 +1,24 @@
+html{
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.qoute-box{
+    max-width: 400px;
+    border-radius: 10%;
+    border-color: #111;
+}
+.blockqote{
+    padding: 20px 10px;
+    border-top: 1px dotted #d7d8dc;
+    border-bottom: 1px dotted #d7d8dc;
+}
+.text{
+    color: #111;
+    font-size: 24px;
+}
